@@ -9,3 +9,4 @@ aumento = salario * percentual/100;
 salarioComAumento = salario + aumento;
 
 console.log("O salário reajustado é:" +salarioComAumento);
+
